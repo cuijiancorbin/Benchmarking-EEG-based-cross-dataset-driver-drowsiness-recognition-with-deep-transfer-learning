@@ -14,6 +14,7 @@ https://figshare.com/articles/dataset/EEG_driver_drowsiness_dataset/14273687
 The processed SEED-VIG dataset can be downloaded here:
 https://figshare.com/articles/dataset/Extracted_SEED-VIG_dataset_for_cross-dataset_driver_drowsiness_recognition/26104987
   
+Required library:torch, scipy, numpy, sklearn  
    
 Description on the backbone ICNN model can be found from:
      
