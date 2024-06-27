@@ -4,7 +4,10 @@ It usually takes a long time to collect data for calibration when using electroe
 The code implements the Entropy-Driven Joint Adaptation Network (EDJAN) for cross-dataset driver drowsiness recognition:
      
 Cui, Jian, et al. "Benchmarking EEG-based cross-dataset driver drowsiness recognition with deep transfer learning." 2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC). IEEE, 2023. DOI: 10.1109/EMBC40787.2023.10340982    
- 
+
+The proposed model achieved an mean accuracy of 83.68% when transfer from SADT to SEED-VIG.
+It achieved an accuracy of 76.90% when transfer from SEED-VIG to SADT.
+
 The processed SADT dataset can be downloaded here:
 https://figshare.com/articles/dataset/EEG_driver_drowsiness_dataset/14273687
   
